@@ -1,2 +1,2 @@
 # xongue_paulo
-Prograrame
+Programe
